@@ -1,44 +1,50 @@
 /* 
 💡 Targets
 - 문자열에 포함되어있는 숫자를 "최소값 최댓값"의 형태로 반환하라
+
 🔑 Strategy
-- 
+- 문자열 -> split -> int -> " min max "
+
 🔑 Method
-- cnt = 배열길이의 N/2 저장
-- 중복 제거 길이(a) > cnt -> cnt 최댓값 
-- 중복 제거 후 길이(a) < cnt -> nums의 길이가 최댓값
+- sstream을 활용한 문자열 split
+
 */
 
+#include <string>
 #include <vector>
-#include <set>
+#include <sstream>
+#include <algorithm>
+
 using namespace std;
 
-int solution(vector<int> nums)
-{
-    int answer = 0;
-    int cnt = nums.size() / 2;
-    set <int> a;
-    for(int i=0; i<nums.size(); i++){
-        a.insert(nums[i]);
+string solution(string s) {
+    string answer = "";
+    vector<string> split(string str, char delimiter);
+    vector<string> result = split(s, ' ');
+    vector<double> re_double;
+
+    for (int i=0; i<result.size();i++){
+        double d = std::stof(result[i]);
+        re_double.push_back(d);
+
     }
-    if(a.size() >= cnt){
-        answer = cnt;
-    }
-    else{
-        answer = a.size();
-    }
+    int max_result = *max_element(re_double.begin(), re_double.end());
+    int min_result = *min_element(re_double.begin(), re_double.end());
+    
+    answer = to_string(min_result) + ' ' + to_string(max_result);
     return answer;
 }
 
+vector<string> split(string input, char delimiter) {
+    vector<string> answer;
+    stringstream ss(input);
+    string temp;
 
-/*
-#include <vector>
-#include <set>
-#include<algorithm>
-using namespace std;
-int solution(vector<int> nums)
-{
-    set<int> s1(nums.begin(), nums.end());
-    return min(s1.size(), nums.size() / 2);
+    while (getline(ss, temp, delimiter)) {
+        answer.push_back(temp);
+    }
+
+    return answer;
 }
-*/
+
+// 정수형 실수형을 변환해주는 함수 https://blockdmask.tistory.com/333 
