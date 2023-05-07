@@ -23,10 +23,7 @@ using namespace std;
 
 long long solution(int r1, int r2) {
     long long answer = 0;
-    if ((r2-r1)==1)
-        answer = 8 + 3 *4* (r2-r1);
-    else
-        answer = 4 + 3 *4* (r2-r1);
+
 
     return answer;
 }
