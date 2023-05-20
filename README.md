@@ -10,7 +10,7 @@
 |[230418 JadenCase 문자열 만들기 Lv2](https://school.programmers.co.kr/learn/courses/30/lessons/12951?language=cpp)|[c++](./CPP/JadenCase.cpp)||
 |[230424 요격시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)|[c++](./CPP/요격시스템.cpp)||
 |[230428 두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)|[c++](./CPP/두원사이의정수쌍.cpp)|
-|[230520 연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|[c++](./CPP/연속된 부분 수열의 합.cpp)|
+|[230520 연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|[c++](./CPP/연속된\부분\수열의\합.cpp)|
 
 # 백준
 
