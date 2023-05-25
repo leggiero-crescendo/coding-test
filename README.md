@@ -24,3 +24,9 @@
 |[factorial zero num](./BackJon/factorial_zero_num)|[https://www.acmicpc.net/problem/1676](https://www.acmicpc.net/problem/1676)||:heavy_check_mark:|
 |[string](./BackJon/string)|[https://www.acmicpc.net/problem/1120](https://www.acmicpc.net/problem/1120)|||:heavy_check_mark:|
 |[yosepuse](./BackJon/yosepuse)|[https://www.acmicpc.net/problem/1158](https://www.acmicpc.net/problem/1158)||||
+
+
+# 소프티어
+|Test name|C++|python|
+|----------------|-----|-----|
+|[재직자대회](https://softeer.ai/practice/info.do?idx=1&eid=630)||||
