@@ -29,4 +29,4 @@
 # Study(dev)
 |Test name|C++|python|
 |----------------|-----|-----|
-|[재직자대회](https://softeer.ai/practice/info.do?idx=1&eid=630)||||
+|[재직자대회](https://softeer.ai/practice/info.do?idx=1&eid=630)|||[저장은,,생활처럼](./softeer/230529.py)|
