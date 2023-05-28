@@ -26,7 +26,7 @@
 |[yosepuse](./BackJon/yosepuse)|[https://www.acmicpc.net/problem/1158](https://www.acmicpc.net/problem/1158)||||
 
 
-# 소프티어
+# Study(dev)
 |Test name|C++|python|
 |----------------|-----|-----|
 |[재직자대회](https://softeer.ai/practice/info.do?idx=1&eid=630)||||
