@@ -29,4 +29,5 @@
 # Study(dev)
 |Test name|C++|python|비고|
 |----------------|-----|-----|----|
-|[재직자대회](https://softeer.ai/practice/info.do?idx=1&eid=630)||[저장은,,생활처럼](./softeer/230529.py)|[Binary search](https://www.youtube.com/watch?v=-xp1Pc6_lIc)|
+|[week1-재직자대회](https://softeer.ai/practice/info.do?idx=1&eid=630)||[저장은,,생활처럼](./softeer/230529.py)|[Binary search](https://www.youtube.com/watch?v=-xp1Pc6_lIc)|
+|[week2-프로그래머스 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|||DFS/BFS|
