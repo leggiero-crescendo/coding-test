@@ -11,7 +11,6 @@
 |[230424 요격시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)|[c++](./CPP/요격시스템.cpp)||
 |[230428 두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)|[c++](./CPP/두원사이의정수쌍.cpp)||
 |[230520 연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|[c++](./CPP/연속된_부분_수열의_합.cpp)|python ,다른 풀이 확인! |[투포인터알고리즘](https://butter-shower.tistory.com/226)|
-|[230606 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|[c++](./CPP/네트워크.cpp)||[DFS/BFS](https://github.com/leggiero-crescendo/coding-test/issues/4)|
 
 # 백준
 
@@ -31,4 +30,4 @@
 |Test name|C++|python|비고|
 |----------------|-----|-----|----|
 |[week1-재직자대회](https://softeer.ai/practice/info.do?idx=1&eid=630)||[저장은,,생활처럼](./softeer/230529.py)|[Binary search](https://www.youtube.com/watch?v=-xp1Pc6_lIc)|
-|[week2-프로그래머스 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|||DFS/BFS|
+|[week2-프로그래머스 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|[c++](./CPP/네트워크.cpp)||[DFS/BFS](https://github.com/leggiero-crescendo/coding-test/issues/4)|
