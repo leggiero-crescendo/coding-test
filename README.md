@@ -31,3 +31,4 @@
 |----------------|-----|-----|----|
 |[week1-재직자대회](https://softeer.ai/practice/info.do?idx=1&eid=630)||[저장은,,생활처럼](./softeer/230529.py)|[Binary search](https://www.youtube.com/watch?v=-xp1Pc6_lIc)|
 |[week2-프로그래머스 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|[c++](./CPP/네트워크.cpp)||[DFS/BFS](https://github.com/leggiero-crescendo/coding-test/issues/4)|
+|[week3-단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|[c++](./CPP/단속카메라.cpp)|[python](./PYTHON/단속카메라.py)|[탐욕법](https://github.com/leggiero-crescendo/coding-test/issues/5)|
