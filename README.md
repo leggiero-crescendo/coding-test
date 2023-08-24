@@ -12,6 +12,7 @@
 |[230428 두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)|[c++](./CPP/두원사이의정수쌍.cpp)||
 |[230520 연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|[c++](./CPP/연속된_부분_수열의_합.cpp)|python ,다른 풀이 확인! |[투포인터알고리즘](https://butter-shower.tistory.com/226)|
 |[230804 현대모비스 알고리즘 경진대회 예선 (에어컨)](https://school.programmers.co.kr/learn/courses/30/lessons/214289)|||
+|[230824 숫자변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538?language=cpp)|||
 
 # 백준
 
